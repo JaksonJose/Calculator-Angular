@@ -1,6 +1,6 @@
 # Calculator
 
-This project is aimed to learn Angular concepts. I't a simple calculator. <br>
+This project is aimed to learn Angular concepts. It's a simple calculator. <br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
 
 <div align="left">
