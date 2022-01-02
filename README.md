@@ -1,6 +1,20 @@
 # Calculator
 
+This project is amed to learn Angular concepts. I't a simple calculator. <br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
+
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/61663376/147886970-0c0dd7b9-9fbc-40f2-a787-299af33ab4f4.png" width="400px">
+</div>
+
+
+### What I've learned with this project
+- import and export module
+- One way databind
+- Click event
+- Generate components and modules
+- Testing the application
+- Dependency Injection
 
 ## Development server
 
